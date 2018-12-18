@@ -1,10 +1,9 @@
 # microGameOnBrowser
 Build MicroGame on Browser with `HTML`, `CSS`, `Javascript`
-
-## `EBS SW`에 탑재될 강의입니다    
-
+ <br><br>
+### `EBS SW`에 탑재될 강의입니다    
+<br><br>
 아래엔 참고할 프로젝트들입니다.  
-
 ### `Turn On & Off Bulb`
 https://www.youtube.com/watch?v=HwWIKbZ6BE4
 
